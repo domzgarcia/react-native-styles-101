@@ -31,3 +31,9 @@ const styles = StyleSheet.create({
 1. [React Redux Tutorial](https://www.youtube.com/watch?v=BtJoy4G3N8U&t=551s)
 2. [The Net Ninja](https://www.youtube.com/watch?v=c9Sg9jDitm8&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=5)
 3. Commands: npx expo start and for web, npm run web
+
+
+
+
+Where I left:
+https://www.youtube.com/watch?v=llPRMRl_ZTM&list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&index=23
